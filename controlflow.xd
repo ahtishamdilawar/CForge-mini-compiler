@@ -1,0 +1,20 @@
+// Using conditionals and loops
+int count = 0;
+
+// Conditional statement
+if (count < 5) {
+    print("Count is less than 5");
+} else {
+    print("Count is 5 or more");
+}
+
+// While loop: prints count from 0 to 4
+while (count < 5) {
+    print(count);
+    count = count + 1;
+}
+
+// For loop: iterates three times
+for (int i = 0; i < 3; i = i + 1) {
+    print("For loop iteration: " + i);
+}

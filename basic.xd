@@ -1,0 +1,11 @@
+// Basic variable declarations and initialization
+int a = 10;
+float b = 3.14;
+bool flag = true;
+string message = "Hello, World!";
+
+// Print the values
+print(message);
+print(a);
+print(b);
+print(flag);

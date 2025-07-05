@@ -1,0 +1,12 @@
+// Demonstrates arithmetic operations
+int x = 5;
+int y = 2;
+int sum = x + y;
+int diff = x - y;
+int prod = x * y;
+int mod = x % y;
+
+print(sum);
+print(diff);
+print(prod);
+print(mod);
